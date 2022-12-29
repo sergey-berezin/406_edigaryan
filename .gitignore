@@ -134,3 +134,12 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+/Console
+/Wpf/.vs/ArcFaceWPF
+/.vs/Новая папка (2)/FileContentIndex
+/.vs/Новая папка (2)/v17
+/Component/arcfaceresnet100-8.onnx
+/Component/.vs/ArcFaceComponent/DesignTimeBuild
+/Component/.vs/ArcFaceComponent/FileContentIndex
+/Component/.vs/ArcFaceComponent/v17
+/.vs
